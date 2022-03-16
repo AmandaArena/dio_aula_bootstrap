@@ -1,2 +1,2 @@
 # dio_aula_bootstrap
-Aula prática sobre bootstrap do bootcamp da DIO.
+Aula prática sobre os primeiros conceitos do Bootstrap administrada no bootcamp da DIO.
